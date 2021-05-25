@@ -1,0 +1,21 @@
+.body_background {
+    text-align: center;
+    background-image: url("maths.jpg");
+}
+.login_player1, .login_player2 {
+    background-color: lightskyblue;
+    border-radius: 15px;
+    padding: 10px;
+		float: none;
+		border-radius: 15px;
+		width: 600px;
+		margin-bottom: 20px;
+		margin-left: 500px;
+		margin-right: 500px;
+}
+h1 {
+    color: white;
+}
+#btn_login {
+    width: 350px;
+}
